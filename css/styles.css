@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+p {
+  font-style: italic;
+}
+
+p {
+  font-family: serif;
+  font-size: 12px
+}
+
+ul {
+  font-size: 20px;
+  line-height: 20px;
+}
