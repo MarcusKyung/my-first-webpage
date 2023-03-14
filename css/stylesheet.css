@@ -1,14 +1,17 @@
 h1 {
   text-align: center;
   text-decoration: underline;
+  color: black
 }
 
 p {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: black
 }
 
 h2 {
   font-style: italic;
+  color: black
 }
 
 /* This is a pseudoclass called hover */
